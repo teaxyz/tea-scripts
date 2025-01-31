@@ -10,4 +10,6 @@ interface IGPGWallet {
         bytes memory pubKey,
         bytes memory signature
     ) external;
+
+    function signers(address) external view returns (bool);
 }

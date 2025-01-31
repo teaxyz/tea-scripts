@@ -2,7 +2,7 @@
 pragma solidity ^0.8.15;
 
 import {Script, console} from "forge-std/Script.sol";
-import {IGPGWallet} from "src/IGPGWalletImpl.sol";
+import {IGPGWallet} from "src/IGPGWallet.sol";
 
 contract AddSignerScript is Script {
     // Add deployed GPG Wallet here.
