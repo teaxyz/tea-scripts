@@ -4,6 +4,7 @@ This repo contains scripts to run on a local devnet of the Layer Tea network to 
 
 ### Prerequisites
 
+- Clone the [this repo](https://github.com/teaxyz/gpg-scripts).
 - Clone the [GPG Wallet Repo](https://github.com/teaxyz/gpg-wallet) and checkout `audit-fixes` branch.
 - Clone the [Optimism Repo](https://github.com/teaxyz/optimism/) and checkout `audit-fixes` branch.
 - Clone the [Tea Geth Repo](https://github.com/teaxyz/tea-geth) and checkout `audit-fixes` branch.
